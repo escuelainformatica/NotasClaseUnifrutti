@@ -22,7 +22,4 @@ Notas de la clase Unifrutti traders 2024
 
 [escuelainformatica/cursocsharp20241017 (github.com)](https://github.com/escuelainformatica/cursocsharp20241017)
 
-<<<<<<< HEAD
-[📃 Ejercicio de la clase (docx)][Ejercicio_CSharp_Modelo_y_Servicio_2_sin_singleton.docx]
-=======
 📃 [Ejercicio de la clase docx](https://github.com/escuelainformatica/NotasClaseUnifrutti/raw/refs/heads/main/Ejercicio_CSharp_Modelo_y_Servicio_2_sin_singleton.docx)
