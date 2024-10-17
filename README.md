@@ -7,12 +7,16 @@ Notas de la clase Unifrutti traders 2024
 
 [escuelainformatica/cursocsharp1410 (github.com)](https://github.com/escuelainformatica/cursocsharp1410)
 
+📃 [Ejercicio de la clase docx](https://github.com/escuelainformatica/NotasClaseUnifrutti/raw/refs/heads/main/Ejercicio2.docx)
+
 ## Clase 16/10
 
 * Clases con campos normales
 * Creación de variables y uso de clases
 
 [escuelainformatica/cursocsharp202416_2 (github.com)](https://github.com/escuelainformatica/cursocsharp202416_2)
+
+📃 [Ejercicio de la clase docx](https://github.com/escuelainformatica/NotasClaseUnifrutti/raw/refs/heads/main/Ejercicio3.docx)
 
 ## Clase 17/10
 
